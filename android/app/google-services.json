@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382436055263",
+    "project_id": "rastreamentopets",
+    "storage_bucket": "rastreamentopets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382436055263:android:69efc8b23116aff890716a",
+        "android_client_info": {
+          "package_name": "com.example.rastreiopets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382436055263-pj9qors9l9cb55iucn27geb851jlhmuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb4ONQEu6lqAxzOVruYnCcrDf_rPgV0oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382436055263-pj9qors9l9cb55iucn27geb851jlhmuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
